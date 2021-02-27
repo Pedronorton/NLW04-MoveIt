@@ -6,6 +6,7 @@ import { Profile } from '../components/Profile.tsx'
 import styles from '../styles/pages/Home.module.css'
 import { CompletedChallanges } from '../components/CompletedChallanges.tsx'
 import {Countdown} from '../components/Countdown.tsx'
+import {ChallengeBox} from '../components/ChallengeBox.tsx'
 
 export default function Home() {
   return (
@@ -23,7 +24,7 @@ export default function Home() {
           <Countdown/>
         </div>
         <div>
-
+          <ChallengeBox/>
         </div>
       </section>
     </div>
