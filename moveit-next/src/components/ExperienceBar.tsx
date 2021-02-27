@@ -8,7 +8,7 @@ export function ExperienceBar () {
 
     return(
         <header className={styles.experienceBar}>
-            <span>{currentExperience} xp</span>
+            <span>0 xp</span>
             <div>
                 {/* Coisas que mudam de estilo é melhor deixar inline */}
                 {/* É possível alterar pegando o elemento por id, mas assim fica mais fácil */}
