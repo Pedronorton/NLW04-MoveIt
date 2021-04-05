@@ -2,7 +2,7 @@
 
 ## 📄 Sobre
 
-O projeto consiste em uma aplicação que monitora os ciclos pomodoros, disponibilizado no quarto NLW  [**Udemy**](https://nextlevelweek.com/episodios/react/1/edicao/4?utm_source=convertkit&utm_medium=email&utm_campaign=NLW4+Aulas+dispon%C3%ADveis&utm_term=Leads+cadastrados&utm_content=Aula+01+Elixir). A aplicação se consiste em apenas frontend, podendo ter melhorrias posteriores com a inclusão de um backend. A tecnologia utilizada foi o React.js juntamente com o Next.js. 
+O projeto consiste em uma aplicação que monitora os ciclos pomodoros, disponibilizado no quarto [**NLW**](https://nextlevelweek.com/episodios/react/1/edicao/4?utm_source=convertkit&utm_medium=email&utm_campaign=NLW4+Aulas+dispon%C3%ADveis&utm_term=Leads+cadastrados&utm_content=Aula+01+Elixir). A aplicação se consiste em apenas frontend, podendo ter melhorrias posteriores com a inclusão de um backend. A tecnologia utilizada foi o React.js juntamente com o Next.js. 
 
 ---
 
